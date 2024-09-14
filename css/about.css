@@ -1,0 +1,117 @@
+.common-section{
+    background-color: #0370C0;
+    color: #fff;
+    padding: 50px;
+}
+
+.about-section{
+    max-width: 130rem;
+    margin:0 auto;
+    padding: 6rem 4rem;
+}
+.body-heading{
+    color: #486284;
+    text-transform: capitalize;
+    font-size: 2.4rem;
+    text-align: center;
+   
+}
+.body-description{
+    margin:1rem auto;
+    font-size: 1rem;
+    max-width: 46rem;
+    width: 80%;
+   text-align: center;
+   z-index: 1;
+   opacity: 1;
+}
+
+.bg-img{
+    background-image: url("../img/electrical.png");
+    opacity:  0.5;
+    position: relative;
+}
+
+
+.about-full-wrapper-switch{
+    display: flex;
+    /* background-color: red; */
+    margin: auto 5rem;
+    gap:5rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    /* flex-direction: row-reverse; */
+}
+
+.about-text-wrapper{
+   
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+
+.img-border{
+    background-color: #fff;
+    border: 1px dotted #CCC;
+    width: 10rem;
+    height: 10rem;
+}
+
+.under-line{
+    border-bottom: 2px solid #00B2FF;
+    padding:6px 0;
+}
+
+
+.about-image-section{
+    display: flex;
+    margin-top: 5rem;
+    gap: 5rem;
+}
+
+.image-section img{
+    height: 32rem;
+    width: 100%;
+}
+
+.image-text-section{
+    box-sizing: border-box;
+    width: 30rem;
+}
+.image-text-section img{
+    box-shadow: 0 18px 12px -7px gray;
+    height: 15rem;
+    width: 100%;
+}
+
+.mg-top{
+    margin-top: 1rem;
+}
+
+
+
+.about-content-b{
+    margin-top: 3rem;
+    justify-content: space-between;
+    display: flex;
+    gap:2rem;
+    
+}
+
+.about-cotent-b-l{
+   padding: 2rem;
+}
+
+.about-cotent-b-r{
+    background-color: #024D87;
+    padding: 2rem;
+    color:#FFFFFF;
+}
+.b-text-color{
+    color:#fff
+}
+
+
+

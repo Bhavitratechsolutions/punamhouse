@@ -1,0 +1,169 @@
+
+/* .service-container{
+    width: 100%;
+} */
+
+/*
+ .banner{
+    position: relative;
+    height: 100vh;
+    background-image: url(../img/bannner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(#0082e6, #024d87ab);
+    
+}
+
+.banner ::before{
+  content: "";
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+} */
+
+
+/* .banner{
+    width: 100%;
+    position: relative;
+    padding: 10px;
+}
+.banner-image img{
+    width: 100%;
+    height: 600px;
+}
+
+
+.banner-content{
+    position: absolute;
+    top:30%;
+    left:30%;
+    color:red;
+    height: 300px;
+    background-color: #000;
+    text-align: center;
+    padding: 1rem 2rem;
+} */
+
+
+.banner-content{
+    position: absolute;
+    top:60%;
+    left:30%;
+    color:#FFFFFF;
+    text-align: center;
+    padding: 1rem 2rem;
+    font-size: 17px;
+} 
+
+.banner-p1{
+    letter-spacing: 1rem;
+}
+
+.banner-p2{
+    width: 30rem;
+    display: flex;
+    text-align: center;
+    margin-left: 5rem;
+}
+
+
+.empty-box{
+    background: #F6F7F9;
+    padding: 3rem;
+}
+
+.service-about{
+    background:#fff;
+    padding: 3rem;
+}
+
+.service-about-content{
+    text-align: center;
+    width: 30rem;
+    margin:auto;
+}
+
+.energy-container{
+    padding: 3rem 0;
+   background-color: #F7FBFF;
+  
+}
+
+.energy-box{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap:10px;
+    width: 80%;
+    margin:auto;
+}
+
+.futur-energy-content{
+    width: 60%;
+    padding: 20px 5px;
+    /* margin: 30px; */ 
+}
+.how-work-btn{
+    border:none;
+    background-color: #BDDEF6;
+    color: #024D87;
+    padding: 4px 10px;
+    border-radius: 2px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.about-btn{
+    border:none;
+    background-color: #024D87;
+    color: #fff;
+    padding: 5px 15px;
+    /* border-radius: 2px; */
+    text-align: center;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+
+
+.futur-energy-img img{
+    width: 100%;
+    height:400px;
+}
+
+
+.energy-list {
+    /* background-color: red; */
+   
+    margin: 0;
+    padding: 0;
+}
+
+.enegry-list-item{
+    list-style: none;
+    margin: 5px auto;
+    display: flex;
+    gap:10px;
+    align-items: center;
+}
+
+.enegry-list-item a{
+    list-style: none;
+    color: #4F5254;
+}
+
+.enegry-list-item i{
+    list-style: none;
+    color: #024D87;
+}
+
+.energy-list li{
+    margin-bottom: 10px;
+}
+
+
